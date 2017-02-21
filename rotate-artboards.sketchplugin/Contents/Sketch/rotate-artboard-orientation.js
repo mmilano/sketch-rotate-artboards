@@ -10,12 +10,12 @@ var APP = NSApplication.sharedApplication;
 
 function onRun(context) {
 
-  var Sketch = context.api()
+    var Sketch = context.api();
 
     var selectedItems = context.selection;
     var selectedCount = selectedItems.count();
 
-    var artboardsWereSelected = false;
+    //var artboardsWereSelected = false;
 
     if (selectedCount == 0) {
         log('Nothing selected.');
@@ -31,7 +31,6 @@ function onRun(context) {
                 log ("selection #" +(i+1)+ " is an artboard");
 
                 var artboard = item;
-
                 var existing_width = artboard.frame().width();
                 var existing_height = artboard.frame().height();
                 
@@ -41,7 +40,7 @@ function onRun(context) {
                 artboard.frame().setWidth(new_width);
                 artboard.frame().setHeight(new_height);
                 
-                log ("changed orientation of artboard: " + item.name());
+                log ("Changed orientation of artboard: " + item.name());
                 log ("old dimensions: " + existing_width +"," + existing_height);
                 log ("new dimensions: " + new_width +"," + new_height);           
             };
@@ -49,4 +48,5 @@ function onRun(context) {
         };
     };
 };
+
 
