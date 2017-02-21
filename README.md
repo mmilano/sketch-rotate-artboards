@@ -1,4 +1,4 @@
-# Rotate Artboard Orentation
+# Rotate Artboard Orientation
 
 Simple plugin for [Sketch][] to rotate the orientation of selected artboards. 
 
