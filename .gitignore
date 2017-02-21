@@ -1,0 +1,5 @@
+#osx stuff
+.DS_Store
+
+## Build generated
+build
