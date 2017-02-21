@@ -23,7 +23,7 @@ function onRun(context) {
     else {
         log('Selected items: \n');
         for (var i = 0; i < selectedCount; i++) {
-            var item = selection[i];
+            var item = selectedItems[i];
 
             if (item.className() != 'MSArtboardGroup') {
                 log ("selection #" +(i+1)+ " is not an artboard");
