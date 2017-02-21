@@ -1,18 +1,18 @@
 {
-    "name" : "Rotate Artboard Orientation",
-    "identifier" : "com.mmilano.sketch.rotateartboardorientation",
-    "version" : "1.01",
-    "description" : "Rotate the selected artboard's orientation - width will become height, height will become width.",
+    "name": "Rotate Artboard Orientation",
+    "identifier": "com.mmilano.sketch.rotateartboardorientation",
+    "description": "Rotate the selected artboard's orientation - width will become height, height will become width.",
     "homepage": "https://github.com/mmilano/sketch-rotate-artboards",
-    "compatibleVersion": 42,
-    "author" : "Michel Milano",
-    "commands" : [
+    "compatibleVersion": 3,
+    "author": "Michel Milano",
+    "version": "1.0",
+    "commands": [
     {
-      "script" : "rotate-artboard-orientation.js",
-      "handler" : "onRun",
-      "shortcut" : "",
-      "name" : "Rotate Artboard Orientation",
-      "identifier" : "rotateartboardorientation"
+      "script": "rotate-artboard-orientation.js",
+      "handler": "onRun",
+      "shortcut": "",
+      "name": "Rotate Artboard Orientation",
+      "identifier": "rotateArtboardOrientation"
     }
   ]
 }
