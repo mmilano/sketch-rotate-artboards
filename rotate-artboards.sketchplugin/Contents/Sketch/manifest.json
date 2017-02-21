@@ -3,7 +3,7 @@
     "identifier" : "com.mmilano.sketch.rotateartboardorientation",
     "version" : "1.01",
     "description" : "Rotate the selected artboard's orientation - width will become height, height will become width.",
-    "homepage": "http://github.com/mmilano/rotateartboard",
+    "homepage": "https://github.com/mmilano/sketch-rotate-artboards",
     "compatibleVersion": 42,
     "author" : "Michel Milano",
     "commands" : [
