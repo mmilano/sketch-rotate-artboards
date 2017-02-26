@@ -15,8 +15,6 @@ function onRun(context) {
     var selectedItems = context.selection;
     var selectedCount = selectedItems.count();
 
-    //var artboardsWereSelected = false;
-
     if (selectedCount == 0) {
         log('Nothing selected.');
     } 
@@ -48,5 +46,4 @@ function onRun(context) {
         };
     };
 };
-
 
