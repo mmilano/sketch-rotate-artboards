@@ -1,6 +1,6 @@
 // Rotate Artboard Orientation
 // author: Michel Milano
-// — Source code available at [GitHub](https://github.com/???/plugins.rotate-artboard)
+// — Source code available at [GitHub](https://github.com/mmilano/sketch-rotate-artboards/)
 //
 // Rotates the currently selected artboard(s)_' orientation, portrait to landscape -
 // width becomes the height, height becomes the width.
