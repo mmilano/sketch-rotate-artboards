@@ -5,7 +5,7 @@
     "homepage": "https://github.com/mmilano/sketch-rotate-artboards",
     "compatibleVersion": 3,
     "author": "Michel Milano",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "commands": [
     {
       "script": "rotate-artboard-orientation.js",
