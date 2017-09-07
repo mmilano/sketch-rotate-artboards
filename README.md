@@ -36,27 +36,23 @@ Solution is to manually move the overlapping artboard(s) so that they do not ove
 
 
 ## Installation
+
+
 ### Install Manually
-1. [Download the ZIP file](https://github.com/mmilano/sketch-rotate-artboards/archive/master.zip) and unzip.
+1. [Download the ZIP file](https://github.com/mmilano/sketch-rotate-artboards/archive/master.zip) and unzip (double clicking should do this automatically).
 1. In a new Finder window, navigate to Users/[YOUR USERNAME]/Library/Application Support/com.bohemiancoding.sketch3/Plugins. From the terminal, this is 
 `~/Library/Application Support/com.bohemiancoding.sketch3/Plugins.`
 
    You can also get to this directory from within Sketch:
-   Sketch > Preferences > Plugins.  Using the tiny gear menu, select "Show Plugins Folder."
+   Sketch > Preferences > Plugins. Using the tiny gear menu, select "Show Plugins Folder".
 
-1. Manually copy the plugin file `rotate-artboards.sketchplugin` into this destination.
-
-
-### Install With A Double-Click
-1. [Download the ZIP file](https://github.com/mmilano/sketch-rotate-artboards/archive/master.zip) and unzip.
-1. Double-click the file `rotate-artboards.sketchplugin`.
-1. If Sketch is not already running, it will launch.
-1. A dialog should display asking you to confirm that you want to install the plugin file.
-1. A successful installation will display a confirmation of success dialog.
+1. Manually copy the unzipped plugin folder (that was just downloaded) `sketch-rotate-artboards-master` into this destination.
 
 
 ### Have The Machines Handle Installation
+
 1. Install using Sketch Toolbox
+
 
 
 ## Contributors
@@ -64,6 +60,11 @@ Solution is to manually move the overlapping artboard(s) so that they do not ove
 
 
 ## Change Log
+v1.0.2: 2017-09-18
+
+* Updated to support Sketch's built-in (and unsatisfactorily documented, from the creator point-of-view) plugin update system.
+
+
 v1.0.1: 2017-02-25
 
 * Adjust menu behavior so that main command it root (i.e. no need for a redundant submenu)
