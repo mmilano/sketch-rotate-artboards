@@ -1,31 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
+    <channel>
     <title>Rotate Artboard Orientation Plugin</title>
     <link>http://sparkle-project.org/files/sparkletestcast.xml</link>
     <description>Rotate Artboard Orientation Plugin</description>
     <language>en</language>
-      <item>
-        <title>Version 1.0.2</title>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>Minor update for Sketch's plugin update system. No functional changes.</li>
-            </ul>
-          ]]>
-        </description>
-        <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.2.zip" sparkle:version="1.0.2" />
-      </item>
-      <item>
-        <title>Version 1.0.1</title>
-        <description>
-          <![CDATA[
+        <item>
+            <title>Version 1.0.1</title>
+            <description>
+            <![CDATA[
             <ul>
               <li>First release of the plugin</li>
             </ul>
-          ]]>
-        </description>
-        <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.1.zip" sparkle:version="1.0.1" />
-      </item>
-  </channel>
+            ]]>
+            </description>
+            <pubDate>Sat, 18 Feb 2017 16:00:00 -0700</pubDate>
+            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.1.zip" sparkle:version="1.0.1" />
+        </item>
+        <item>
+            <title>Version 1.0.2</title>
+            <description>
+            <![CDATA[
+            <ul>
+              <li>Minor update for Sketch's plugin update system. No functional changes.</li>
+            </ul>
+            ]]>
+            </description>
+            <pubDate>Mon, 18 Sep 2017 10:14:00 -0700</pubDate>
+            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.2.zip" sparkle:version="1.0.2" />
+        </item>
+    </channel>
 </rss>
