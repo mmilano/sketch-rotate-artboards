@@ -15,7 +15,7 @@
             ]]>
             </description>
             <pubDate>Sat, 18 Feb 2017 16:00:00 -0700</pubDate>
-            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.1.zip" sparkle:version="1.0.1" />
+            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.1.zip?raw=true" sparkle:version="1.0.1" />
         </item>
         <item>
             <title>Version 1.0.2</title>
@@ -27,7 +27,7 @@
             ]]>
             </description>
             <pubDate>Mon, 18 Sep 2017 10:14:00 -0700</pubDate>
-            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/version1.0.2.zip" sparkle:version="1.0.2" />
+            <enclosure url="https://github.com/mmilano/sketch-rotate-artboards/archive/update-appcast.zip" sparkle:version="1.0.2" />
         </item>
     </channel>
 </rss>
