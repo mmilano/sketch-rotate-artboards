@@ -62,8 +62,7 @@ Solution is to manually move the overlapping artboard(s) so that they do not ove
 ## Change Log
 v1.0.2: 2017-09-18
 
-* Updated to support Sketch's built-in (and unsatisfactorily documented, from the creator point-of-view) plugin update system.
-
+* Updated to support Sketch's built-in (and unsatisfactorily documented, in the opinion of this creator) plugin update system.
 
 v1.0.1: 2017-02-25
 
